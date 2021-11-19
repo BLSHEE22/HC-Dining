@@ -1,2 +1,2 @@
 # HC-Dining
-Pace checker for dining dollar expenditure
+This application allows you to check how your spending pace compares to the average spending pace of dining dollars.
